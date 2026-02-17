@@ -52,7 +52,7 @@ You can explore the complete notebook directly in this repository:
 `BrainModeling_project.ipynb`  
 
 For a static preview:  
-[Open in nbviewer](https://nbviewer.org/github/BeatriceCamera/stochastic-resonance-lif/blob/main/BrainModeling_project.ipynb)
+[Open in nbviewer](https://nbviewer.org/github/BeatriceCamera/BrainModeling_project/blob/main/BrainModeling_project.ipynb)
 
 
 ## Authors  

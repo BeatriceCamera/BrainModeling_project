@@ -16,7 +16,7 @@ Brain Modeling project investigating **Stochastic Resonance** in a **Leaky Integ
 ## Overview  
 This project studies how **Gaussian white noise** can enhance the detection of a weak subthreshold sinusoidal input in a nonlinear threshold system.  
 
-Using a **Leaky Integrate-and-Fire (LIF) model**, we investigate whether an intermediate noise intensity maximizes spike–signal synchronization — a phenomenon known as **Stochastic Resonance (SR)**.
+Using a **Leaky Integrate-and-Fire (LIF) model**, we investigate whether an intermediate noise intensity maximizes spike–signal synchronization, a phenomenon known as **Stochastic Resonance (SR)**.
 
 The analysis is performed at:
 1. **Single-neuron level**, using phase-locking metrics.  
